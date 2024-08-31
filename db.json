@@ -1,0 +1,821 @@
+{
+  "tongDoTheoHe": {
+    "heNuoc": [
+      {
+        "ten": "ED",
+        "image":"https://i.namu.wiki/i/sFB9zTu4cS2mQ1ektYPDD4JgyXUb4jc2prQftR9XZ8ts7p7_dK57sG9pBKvOOxcRGoF9Q-MG8SurvaaBbgoVZlS2E9Ej-5hz-sPHwD5W84_0F7_uRCvzalz5gli9TwfiKAROQ4aVMJxqtBvIVHAINw.webp"      },
+      {
+        "ten": "Aya",
+        "image": "https://i.namu.wiki/i/IovAmUmbDPfznA1pyqmiSe0QZ8kZpZ4LpvbQ6axFQQ5vjX91nQccWKO0qP9af2kYyvFOIBH6F7Hf85l88YzTvFVy0v5G7lQkf1ncoUZufyUh3gysiyA8zhs_wtEPHucynGoB2MmGyEyaKboD0ej85Q.webp"
+      },
+      {
+        "ten": "Barong",
+        "image": "https://i.namu.wiki/i/lylxwKvbd4Fcv-7_3MkAi0JaCRPSVtmkXyUJPYuO3MYBSN1cUUibE97GNkEJXdTzhL0EdDz4IfNL1COpU7HsX2h97HkkdKpCq9cxU1Gq4e4J5aNenIPFlFVWm2bwPCancJOzmg-ZMJmZPNHY12CGrQ.webp"
+      },
+      {
+        "ten": "SuKomi",
+        "image": "https://i.namu.wiki/i/oB76gslY0swJtJQ1QRaGeQlGipNRVEvWcBMxcWHroStat9AZTbHySvIZE40_WKQ_NLSxdRmF5HpEIBemVp0Vlp5LpqIsnkELPJMYjtJzaJZfiMmKg3XUodutPrJZkDN4ahiS6dPycYd7zM9xJtFuFg.webp"
+      },
+      {
+        "ten": "Picora",
+        "image": "https://i.namu.wiki/i/XRvCycQjkX0qWkS_IXkUDkYV4H45Tdu4rm_G5xNSoihFuGX0WoklieDIlke19U0sVjstFM4_Qx-r-hhBANR8S0zrC7mvQqrK_aUExN5ZMdxXkQujAgNaNiw1uXMvpNpP2aCQW-GyuJevTTZ9MgEnCw.webp"
+      },
+      {
+        "ten": "Velvet",
+        "image": "https://i.namu.wiki/i/jbFAt7lfkEQPIdrqxpECE2YzWpCcY194MjcHRSrFRB5rFc9brE7cOKO9Vr1X7ddpJmRDfVuRNSkNPaXSo0O75RM1q_F8_WffXh9f0cjDQzjCA4wzr1O19c09hGXCVrcxizzLnIBXukZUOXyO8FbS_Q.webp"
+      },
+      {
+        "ten": "Elena",
+        "image": "https://i.namu.wiki/i/bd2rpQhyJ08dWRYSRhlSOJ32-4vTyFUOVvMddk9ziWVB-qLe27-9zUV_DAtxOZ2voQgFUdh6WtfcPYDGTrW4bwuUfLpsFBYB_Xv1Zby0OE1epYA7YOEzgnAvdBNYWCont0Ao6BlAF-umM3jDQJ0cZg.webp"
+      },
+      {
+        "ten": "Jade",
+        "image": "https://i.namu.wiki/i/5tL06-H4GfkJ2vPlS0L1Lv5vVsYOo777-RTI2bawEu7vkWPFRtQXqhbcYoF6e3-3D023yLe1H42sYOYotNFaWzcmfoe6_wUfB_291k6Kb1vAYkx6v1tuyvCylM7Asktzm4XuxNuwVsglsRkQzvf84A.webp"
+      },
+      {
+        "ten": "Fricle",
+        "image": "https://i.namu.wiki/i/TgL6ZRTURUqNMWyuL3M2txTPqFnIGP6gY0dmMPym9QNvmGd4uQwOPHSyMBOLiiX04_hUZ5Kg0AzYlNkSeMg76XbjC-qXlSLMOpxXw6tFFAqt8we4cbCoFkITE8gEeboPlUAKPh4sJjmaNBUwMeLmvw.webp"
+      },
+      {
+        "ten": "Sylla",
+        "image": "https://i.namu.wiki/i/6ZYRucbza0gAG3iqJ081ncQk15TjnsTNKnznTlJGNctADopNBeyO-rfpbBhm0D_1lhvlT4vliSkiU8sPKs7AqgjK3wZadRBN9QcNkqNFLnwYun5410zbbqDEog6pC2G7bQGrrSBD5Dfao5jnnO5zRA.webp"
+      },
+      {
+        "ten": "Meluna",
+        "image": "https://i.namu.wiki/i/XJVTpda9tJorujy5TA2OYHQW5JF9gimOgCypT2UPy80lY530epY3yhUo6hUJTvv_qLJcR84e1bLtKAzpw1WJDIVA-MhIque82IiMCSVjKwAh2pNIe76bqRVETm3wKo6OFS6KrpslgyOYpMOPRrXzuQ.webp"
+      },
+      {
+        "ten": "Amelia",
+        "image": "https://i.namu.wiki/i/MJtgGVp0ugbsQB1HSTD-3Nw5rCxsGJvpMGdmOqxDwX8G43bkoItOaI8BdGAWzTIo7RvjK50n2vycxxGsJ_iz5HOIwKdqCliMehp2iknzciWdhMYH_ZYWwEAiVPAF324Ffz2bUO-JWPfj1mhWdTYijA.webp"
+      },
+      {
+        "ten": "Lethe",
+        "image": "https://i.namu.wiki/i/eaEmN-QhBzsY5VgrnGoSEU2G5p45PA1WQYVH3AwPkBF8gSIegnXj2d2RMY65MNHuaLBnZ3vMWF75fcifbaQjH3tu-k39OtzP2IyozfZyKYsKaUttz2XWrF9sPyDdvzL5LqksH5hjpnOx4vJ7x0oY4g.webp"
+      },
+      {
+        "ten": "Espi",
+        "image": "https://i.namu.wiki/i/Z1ycIo3xu3rhWYWm4mzv_tSmTDgtbVy3hyDrpKTO1EjEZ-749GSQk3DZIpduaO2ycqBMHIAqMLkBptGOisJWiamboO33B3Hr0NvPqjj3d_AS5jdW5uvvGCZkNsnOF_m_eRHMnLh4_60xH-fLvuZptA.webp"
+      }
+    ],
+    "heCo": [
+      {
+        "ten": "Vivi",
+        "image": "https://i.namu.wiki/i/JxiMIJvMZpJHKpToChYqfDxb_i_6hxNgmWAUOXzJ3eeQiDCry7hPjhSRUIE5JBTK3Aw5A9Zxvln7gVXtWHeV0QXgO6UZ6ICBix-D5Z4-rDm-s_PZe5uI829G4yBGU4we9tFdMzwuE0fObPGuLwQe6A.webp"
+      },
+      {
+        "ten": "Haley",
+        "image": "https://i.namu.wiki/i/u2rGOM_ppZfOPNodF2bkh3pJFJwZp_sIfa5frrM72YCWsZx7aiGggKMKFPlsF1ggUqeS2en2ut95hzaDRcjtZbmRcs3AF5wyVSMBS5BxTgPeP7D0PoLN8o6MB4id42wvfA3bf2MSaO8zA0E-08epmg.webp"
+      },
+      {
+        "ten": "Daya",
+        "image": "https://i.namu.wiki/i/wEpYNFTsnMKzfMX1ADkVIXUZXX2HsnRWLXPzvVxDgAC3A6cMt2Z23c5QgOyWnNXEGpRqkN3yhJueRRLOjsWuXdrQu7qSEdmM4ASStnVh2dZ7n3es6f-F77HeW86lcuxYmaqQHMHd42GJckI63PQrxw.webp"
+      },
+      {
+        "ten": "Erpin",
+        "image": "https://i.namu.wiki/i/Qi_U9LJnij9NwikYr9AjspkitSuLz9T45kCucf329dSwg08wd9U2uiqcCPGOdQczhcIKsjZZSjVWiPha1ZoWCcWRQ83FtY69AzBa3_YhYyi80fxk8umInVS6Pged-mdQn2QrN0_gLuk4hCrUTjGzCQ.webp"
+      },
+      {
+        "ten": "Naia",
+        "image": "https://i.namu.wiki/i/9VadmQo5CvouMGpzDoDzmr0GdEGXSEl2eLIIWYf9qO98zoLDIaHYoTbqyqeqb9V2ZN4lr-J3f1wLyyeWePnaK_SL6_z4WbVpWwmAHs5Y3BO4hQAg9uOJktuj9F8aJn3KxoH5ZmK9wgsLZn4HajHCJA.webp"
+      },
+      {
+        "ten": "Kyarot",
+        "image": "https://i.namu.wiki/i/Wv9N4QzqMSn_Z1CvmCnbiDZrWkpBQpdjjbsgEuC7Jeh98NqYnKdwTcTDEV6GEOC1ihO3plzXojs80iyDyCtqpo9-o1cImxfbfN1quBA0JlmV5extNMbjwlnBPyJ6TT45PSFgnYUal2CjtmLuEoUx6A.webp"
+      },
+      {
+        "ten": "Rohne",
+        "image": "https://i.namu.wiki/i/kBQXffHoZdg860uQ6eHsHLk34FmmxrlLGGT4jddxIWeqbx5wiCXi1k2h7f2U5Hq_8UR64mdxIglm60YQ23and1r8_4YabkiNSGUVx2b7uRVzKv26MA6i9BZmEO8AyYBVa5zwcAmUc9E1Hj4w8xMgHg.webp"
+      },
+      {
+        "ten": "BigWood",
+        "image": "https://i.namu.wiki/i/_tb3_xJKtMihrR-n2QeTQwY1D99iQ_lQiBBqkq2XTe_Yu7YShULWFV7FR-hvNWjCENEEF2Sj0kjasjuo67av_vaA7eWgdUgdyhkkNpY3tLJwMgqeoYVY874FK-FTJJTNINz89BdfBD8CLO9gJ8lD-A.webp"
+      },
+      {
+        "ten": "Gabia",
+        "image": "https://i.namu.wiki/i/raFs-emV1lm5N_lxeFNs681GzTHQVgCzgWgEjV8AAic8Iy0xoH0dXszsSFd4VsvGjs_YzM7t3AAJUEtguRAct81E9R6tptpJlhWk2xr4sIdLKfmopsZasIKwvazPUBR2HZ-P4P0_Q8LRBuUN5sxMKw.webp"
+      },
+      {
+        "ten": "Mago",
+        "image": "https://i.namu.wiki/i/HN1d2jriL2kzA2m87mZrl3kaj1r6P2P4rjQfBVYwHs2zKGTXGSBHmp9BU6ojlxW3kZLbMKmPTdUSHIpjqIiyCKZTpeGgfjo43kDnxHWUbBq9EP5gE-8EDYz6i1vXhYtakvjz5-FnX7IqJUjAlniwlQ.webp"
+      },
+      {
+        "ten": "Speaki",
+        "image": "https://i.namu.wiki/i/da0OmwBulVUZ8ddIy3OD_3wmiqVzunVl0lRKYIQYJ5BAoQUloojjM7V90wiVQBpY4sJLLw7D1fJ07fUQ3KRtoW9HeiWkM5iYIxZ4Fe8Dl27MgzmpcUSxBbYbKvlSeEj-IB_w-_bPt3fTbpRjRb2Eag.webp"
+      }
+    ],
+    "heLua": [
+      {
+        "ten": "Chloe",
+        "image": "https://i.namu.wiki/i/uFSnbFZu06sp-Zn_8ieCEL5BhJl-gjhK-a7JDjMsMOaT8EJW06r_NCm3aHEXUv46_G9sl_zTFFTWjvqNwTHAAqZrUGNJz2EYDs1nM7fAAqF5fOWvZRKlEmfsJAFtPrQfBVQMBSZ2AFIcOh8kEInSow.webp"
+      },
+      {
+        "ten": "Renewa",
+        "image": "https://i.namu.wiki/i/fUR_KfkyWAhu5LeeRyeWT3GOrPxfUDpAhJFhi3CEeOFrbv-9tlNo_KMttZdv36znjgwxjCwfSjo_Dj2MB07vYMxkzueQM-suSFeXFpASuCrs2ZYhB2B23liKnNvw28yxtHm9PPnKDLkFPKc2pMO5Iw.webp"
+      },
+      {
+        "ten": "Ritz",
+        "image": "https://i.namu.wiki/i/NosZSJTU15w1Y73HeLQ5n3j7XWrYFI0oAIsPorVoQ--5H8QI1OEnMKAYz-xaFbBB0aTp67DIHGCx_jqpq8s2MEZoCs6zzxDKoSsFx0VI2CrnQFP6gXaFMiVnJdy8HsV722MbkZKNB7QZ3S6f1ev-EA.webp"
+      },
+      {
+        "ten": "Shady",
+        "image": "https://i.namu.wiki/i/pkOr_77_0yM8lEJJyJj8HjtMGHiq9fCGwUUWDskHKfDeTyaSXbI9Ii_rusEDfNrP6yIvEnQqbsQhvB6g3R15zhrQEg0q0wacxdjllyF1CzGuW_zYYfNEGVCUkH80FNuw0StykUz6xOi67TWBTcXfgQ.webp"
+      },
+      {
+        "ten": "Sist",
+        "image": "https://i.namu.wiki/i/tSNKsBthWeFMstfwAtOI81jcr0vNqgkt7NKMkdRpIqMlE-DTeNZ0U5x_YUIfDplQdoNMQdgXyZd31JpOZgys98IYTfnQrUhjt1zFQ3M9BmxuzRFhAuofX0A4odRLuo_fbe7CyTk8e5Y2xtAB8urYPg.webp"
+      },
+      {
+        "ten": "Alice",
+        "image": "https://i.namu.wiki/i/9PFj9kAYTN6D9uDirhVYa___AZ65oLiXYvAOvCJbygz52LkqzTcHc3zP8T2mnNoPjd1G6AOx-bcA-hLCmwvkXC3ch43oygCi_uz2c0kC4-AJRbnh6A9hCF0SAI-bw423a2Elzhf_wIE1TxMnZYvSbg.webp"
+      },
+      {
+        "ten": "Rollett",
+        "image": "https://i.namu.wiki/i/WCIfpQiDLKALDK0KFRpU8--UFC9xFDKcVszRXUV2KxjP4aRoxTUxS5cOvMhzzdI5Nt1dusJvX8Vg6i0PpBl-4ONjh3XSnd-4cI1cPLwTxWXODxxFScsyUdRAPvjD2Gz8Lu_BSh_eRnzKUzmENiGahQ.webp"
+      },
+      {
+        "ten": "Belita",
+        "image": "https://i.namu.wiki/i/C7IJmGd95ZW-JO0fWpZcEBD_Q-1AQ30ImyZ0wL1VoR4xGqixZxoKDK7kJ_LBkSvb4ZWNJMZAZw9cvN_MlW6AomPup5GOLtEz1w3OCagdSOuvJoQvX0VB3ucb6aovvtZoj1EoG6mFuWro0p87Nw3XXg.webp"
+      },
+      {
+        "ten": "Ner",
+        "image": "https://i.namu.wiki/i/xe99Iui2SWuOoSKj2RbvmLUjsnGQKYYxiRpHslFKDzSeo2v0R0Eb7wlvCFlG3iKrTCyIyf93ouIPy3EnxKk6plMpCehbDFWNYwMgSjLgRxwEOrTTomb_CZQ1OiWYb10ldgcSAfGdbRpqYn-7QtFZRQ.webp"
+      },
+      {
+        "ten": "Diana",
+        "image": "https://i.namu.wiki/i/zNhBAEjHlL_giVHheqDlw9eq1yzIzSe8Wm43v_nTYunIrcWwFcvx2DyBPHB2L2q_5hIaIQfZsbV9VqulPs2atmnarf6wM3nWypJ5jAFt2Z05utnzgCtR_y9bUsPJX6xx4nyylAXNqMathkl_17DNKg.webp"
+      },
+      {
+        "ten": "MaestroMK2",
+        "image": "https://i.namu.wiki/i/blAUkYkUquq3-S3bxofGg0QVtYPAksfDpBhQa6fTOFl_-vCmp0GhbUotHAMQHxd80tMDU93DN46dHLLfizqlaTDgMKofOhEhDONZVUiYVG1x9oON2In5KzeLzplTxLGlLdjPq0LsiQRKpJ2f1BbdyQ.webp"
+      },
+      {
+        "ten": "Ifrit",
+        "image": "https://i.namu.wiki/i/fwXpk3EY7f0oKIg-WRur-F717shg__36Y7o4Gc4MYDygEl0ptL-xMNRL_iH9W1E6wM_w48w4TCTNUjhZnjANQYd7QLVmiOXHWepWBEE-bkr5iEcGtlhsqWGoUcyWSKXal8ztaAMZde7RUZqHQ8RLGA.webp"
+      },
+      {
+        "ten": "Mayo",
+        "image": "https://i.namu.wiki/i/XUIvs2NaMotFo_eolodHkA9xrYGyEstlmyicK3iezEUge9acgJ_E4vRIvq88nD4YonlQpy5Vyb4Y--mrSE9MSoWVRwDx_9KMD-FLA4d8JG2slN1v2l1RTfH-PxiPNRcQkcNcsC4o4HVLU0D324n0zA.webp"
+      }
+    ],
+    "heAnhSang": [
+      {
+        "ten": "Epica",
+        "image": "https://i.namu.wiki/i/Dw30l_lKmW0_uxXHv5uPJmnbtUZuiBOTZWkm2FRJ_6VflvxczR4y5m5e5fGbgp-nWJcmTB9F4RS0XJFU2Gms0QYpaeFA-SPFNjW66ofA7dUawieWX_qu7SsBepySUisJG1wp6iiK8JTiIKyXcnFHOg.webp"
+      },
+      {
+        "ten": "Ui",
+        "image": "https://i.namu.wiki/i/LCpfTAnM3J00Hjmi4XnrhcK0Nms96fwabE2xK92ATsNqxBbnDBWke6sGK0h14j76ojmT7vCDGxGfvqR7q2T1Ppdhzu_V5VrdcHprVuNuGszcPe3ci-PKDxsyhO-dgF9fNp3adSx1DvkREcc4TxeaXA.webp"
+      },
+      {
+        "ten": "Rude",
+        "image": "https://i.namu.wiki/i/tetz0rrmvocO0U5TMYyQPMVKj2qBIbYByS8oGVZiTxh4CfJ5H8uiZBUt88WTbnbZhoNONC9yFzTOF_SkxiCxmKHYQ6eA0HkZ2eSVXnHRrGF5zIh-xnEBpY0ZFLo6OW-dkeKs9VtyIHYkfrkIZtDo3Q.webp"
+      },
+      {
+        "ten": "Selline",
+        "image": "https://i.namu.wiki/i/qRTunKdc5BURg8uxukuFyGRm596snMeJ-f3YJZagj0n-DktY9VuyeRntNjrrBTKMi6qbl9WWlyGwm5EF32xvmPXCt8gRYxEwLRzM-03W-k6kHhrE72JraMpow1SNKaBWNWjByYeztEG4_pB003XIOQ.webp"
+      },
+      {
+        "ten": "Tig",
+        "image": "https://i.namu.wiki/i/d287yN3CcxMuaoZ7D4Ao0KKhO2vPHsnjb1fUchfl6c5yJPLk2LYM52VkP3a7qnpPBN0dX8EKxOtoUchetlMaPHwoetCXIBLZI2IjfiTacmPxObKjSjnk7cEo1r-COFTt6rPGZ_USqqVSIbeZJ2EGfg.webp"
+      },
+      {
+        "ten": "Rufo",
+        "image": "https://i.namu.wiki/i/MI12nHA6wsCnsJeVDP2FwxvLtbq-9E2HTjhny_yf6wwE9hLOQ09W_9MyiihgoRS7FN0d3ZbvhrONLg4Ly6SHHY6ouW38-O3KIuocHffGRSPzN0pA4eNM9dwawQ8cq8EfMVSSRcGzDw8Udm-blVyzlQ.webp"
+      },
+      {
+        "ten": "Momo",
+        "image": "https://i.namu.wiki/i/Hhl9asr5FB7hrvmNiRe--v-5Z_JclLv32Jee_zxwc34W2ECpcUIx4cQqHUkp0qZhD2jO40znSfAOsIRmgrDNGn2t-C8nun7NMXCOUwkpvUoAY89BwfWaGspXbR4z6eMe3YJrlccIXKvJQEXXYy0Xaw.webp"
+      },
+      {
+        "ten": "Butter",
+        "image": "https://i.namu.wiki/i/lasm4EtJaDwuwrxOPRdeT6tpcl9wQoBMArfAQvwTkPx3VTESIoS2-wtRIIkcT2d7pfC-p89_6Ns-rndrA_ly-3x1xaDEXGDsy45o-qx0t2zLDIZ60fPlA5NB1xr1f_IYFY5VUWhOo5QPeDOZw8Mn3A.webp"
+      },
+      {
+        "ten": "Canna",
+        "image": "https://i.namu.wiki/i/M1l3-3cyfYai9Y_Q0FTViFaUEAogdm4W138UO0XMdZfFGqb0famDy00DyyVQpBiTEL_BobQ6_iouIFWz1amZwcLzjzyYofhijYMYS1q7hlTbMZW0MrrRoblvQRfVH69uCRwvbs8DLx-GEf4xfB57hw.webp"
+      },
+      {
+        "ten": "Shoupan",
+        "image": "https://i.namu.wiki/i/eqDOSv9-gf_4uHmHFkLPcf-ZTR20VY84pWHWg8KAFBIdTk4zl1ZUFlTxv5SYRsVLN66k2XiH-u5nCbBUhYmTXDtTwvM-BkkUgm64q3SQ-OE8NgNQNfUCcNBuNzjWbyXzO0KAvr0T26PaDE99GdXWYg.webp"
+      },
+      {
+        "ten": "Marie",
+        "image": "https://i.namu.wiki/i/85AwHNvPlU5EPxGTX9IyeB0VYymsjVvzbuEKep8d76x3vIrsHv2wE4NppPv-fWRDhC1oUHdQLecu9a8K60WwSmPvxxzNEFLabOCa1BDKDGMGtXHWtO56Nzr6-57SFnhXBk_38v6b-zWNRfUk6U8bhQ.webp"
+      },
+      {
+        "ten": "Beni",
+        "image": "https://i.namu.wiki/i/HkIDX1ULL99K1MJww1mJ0ctCG_glYYMQ65ubVws0QsJKYqOf-GEpXnKUXbkmq8KkujihCF-S1iDAVJuKAqbv6KXPB2Dkn2Q6XVvvDzH2Tk7S3wt7I09BGP3nBrqPv2NqTgC1AvG4EP41b_EMYhXVyQ.webp"
+      },
+      {
+        "ten": "Jubee",
+        "image": "https://i.namu.wiki/i/CXDU8X_0yrcNT6Qsg4RqJWfx7Sh04Q1YL72lKydF-Mpr2rvq-laSl_VHUrsWQk7RjPyKionAy_N3p0z6cgQWXJ075LiH7a61jpEK8eDaWJX5ZkvIveUUbt0T2mpmzOzwtRaXoL2V5OK7Cgr_EL9B_g.webp"
+      },
+      {
+        "ten": "Bana",
+        "image": "https://i.namu.wiki/i/Z5i6bZD5OmLu6EaYJawdrtaXt02u6QQC2_Kb_W9KMqwCvBJZA4FgK001objRYBknXGg2gXeamVPq7SsCZLlwaCTzb2lhfq2R5ZdBWihkVECYGblF2w5TuFr8B8UhnVFfAjq00B5pubwWRstmQUF1wg.webp"
+      }
+    ],
+    "heBongToi":[
+      {
+        "ten":"Shion",
+        "image":"https://i.namu.wiki/i/mf97mWd9mJHguHnKbRcmkQFQDCNKwSrtlwiF4NbXEIXJr7sx-1NJfIM_WJhjFVFfknYHPH_vVJnURgPraqR8AgxrHSKhNic4cWdjwL3IWIupZDMv4NbW78S-MfUHpo0hlrD219oEsv4M0B384HSyzg.webp"
+      },
+      {
+        "ten":"Komi",
+        "image":"https://i.namu.wiki/i/ofNePST1pzLqOVRsS9ArAnPoFpMNevV4p5oam7OSIIZ8Xk4coV62HeoT31A5NTPceI_qqLlNjfpA793NDuXPJckMADU9Ewzwvkb64i8_vsvjK-jslvL8KX0kLssBigJT0iMYPeVqQ59FUCliSRv3BA.webp"
+      },
+      {
+        "ten":"Rim",
+        "image":"https://i.namu.wiki/i/a41_g_hz6SxtvPQZPmGaCeTBa_G_wdcV3PshqHM7AlGuWIjBu5uJ-FnKxK4O7PfnwjISJi5SKZA2fuAgnVNSwqEuah6mU3hL6IdXO2TzWDTmnp08gsKFn_Q6CgmaKwMmp_UkR6uVZ9bNAzKctB_SaQ.webp"
+      },
+      {
+        "ten":"Kidian",
+        "image":"https://i.namu.wiki/i/b17f2stry9RJvczefltJQIk2NSl5sDrIbfXZD0oZ7tzTEpQMzLstPjgOD3KxPxV7DY5-og9XzCGeA0RzKBiUt8uAsGx8zBBKiX2SH9TpJUgdrqCxHJaRR_8XlWaEQ5GIsl0OywsFAqVy54dR_-V7jw.webp"
+      },
+      {
+        "ten":"Blanchet",
+        "image":"https://i.namu.wiki/i/hgXwwfzDQU8xjNEtywnBRfeUuFoJtf4nmkSetFfz0T2nlWG1ATGFTGhSzuqsar6vY6EwgVqJmjKYrf00uLHfnNvmQrzUP99QFWoxrY3aQl1UbBSgYZSGwSYn_rbJnT-gf9hasQrORvTplZ-pWtoxXg.webp"
+      },
+      {
+        "ten":"Risty",
+        "image":"https://i.namu.wiki/i/GOfxVQpaaqe6vJGkZTULHk_Bt1WgA5A9Ozg9Cym2CqsNBQWfRnHMmVHGTy8G_5aY4bjmidgFiYJnV9exxAPzJIF49xFd-iuGQnJbudsgGmIZleWcoL8LDMUDS-prYxJkX-mddaMZq_bp7X2JX5tiCg.webp"
+      },
+      {
+        "ten":"Ashur",
+        "image":"https://i.namu.wiki/i/K8NvBb7YUcCeK2GZxd5kTgB9AW6u1Xzr9eLM2o9_8tlbUlDgl2uE23Ub0Kut9ZBPieeQd1TSrWZ2TC65ikC0jEN9QuuJ2U0cJvWVdsARdbxYPORb-UwBfn8LYKLxEoJD_bnxAUqKpYQKYUDSdCytzQ.webp"
+      },
+      {
+        "ten":"Hilde",
+        "image":"https://i.namu.wiki/i/0DL-W8YuksBRCPWLAQGbkljIkBqeQCxWGx5Q8AYMFwc57UJNVR7OqsbQNyJ12VsAZH19AyfhBLDwr9iUx-kAE7_2pr3GRsfgk3lnY5sUmR0DXdSLkyu_6V1fPRK8qGk_m9LngdKZNnV_9mASYK0WDA.webp"
+      },
+      {
+        "ten":"Posher",
+        "image":"https://i.namu.wiki/i/8gHAbv0fhhz97q0rI9UgHbKDDX-6UBT8uFNd2dDboSb6hHlFW7Rz-4Fs3amxAGBXnMlss-URpFDwmsDSHl4dZXlLg6-CdrwzcK4tlsW8n9UNQaRja-ZtSW9FQ87jl-v8pMJtiPeH263apQGAO5wgfg.webp"
+      },
+      {
+        "ten":"Levi",
+        "image":"https://i.namu.wiki/i/sVDq3fLQO70hVlZeWvmz5zlWkfGgZEUh2vvu7zmVz0ZukLgf9TSGqBThsnEbnblf0ZnnsZVavBIUnUEj6a9uMQzzT0LkmZ_-AYvIwS2eUh152UNC0NZmC7fwC4c0oPg3ScSIPPg8OzqGcqGfWYp1Bg.webp"
+      },
+      {
+        "ten":"Silphir",
+        "image":"https://i.namu.wiki/i/62TQ5S3n4CkWGQXsxLRi1xErHsn8CSE6br5p0HJ9j0gjYjcUwNN-A_dnE8VhYNaYZeoTTSuUIcgf_6HOhdJ710Igc0Jqd3y29nBhA3QD7bNQhTGfu0EZfWqrEgaeZQEx_VsCapam1F7KTAa0EAXv-g.webp"
+      },
+      {
+        "ten":"Festa",
+        "image":"https://i.namu.wiki/i/jE1Fxyd7A0PL9HOKO4sI7MukoiiNferb5HD9b8gcofwyZZh058lnrkuvHStgfVzPJB_q0ZcwgYO0-BkKNkV6bYnRXmA2YtJP8BMqz0UYe_sPgfumzjyr9vP9CwZoXon5Nq-TLZRIY3qkNOMk8Lrc5A.webp"
+      },
+      {
+        "ten":"Bari",
+        "image":"https://i.namu.wiki/i/rOIiakdyJySbyLPT400-Oz4yRXRvncH68Jm5jkXTZ3iSz7mDw0QRMC1ex7_2pCz_Cn20kOYqUsrfvWsHLrz6888K-AvKecFYW0vK1Yv8NaFV0cYNH0P0jQXGwEh4pF0rRnDMAy6dxqglmWrwjRkM7A.webp"
+      }
+    ]
+  },
+  "tongDoChiTiet": {
+    "ED": {
+      "he": "Nước",
+      "ten": "ED",
+      "thongTinChiTiet": "Cuộc sống vĩnh hằng cuối cùng được tiết lộ. Mô hình LLEL-S, một AI có trí thông minh cao do các yêu tinh tạo ra, thường được gọi là 'Nata', có thể đã bị thương và không thể điều trị bằng các phương pháp thông thường. Một quả cầu được trang bị Một tông đồ sống trong hệ thống hỗ trợ sự sống. Vì lý do này, cô ấy dành mọi khoảnh khắc nằm ngủ, coi thực tế là 'một giấc mơ mà cô ấy mơ thấy'. Nó được công nhận là. Nata và ed di chuyển cùng lúc, và trong trận chiến, thiết bị gắn trên Nata và một loại phép thuật nào đó mà Ed sở hữu hoạt động đồng thời. Phản ánh điều này, các đòn tấn công của Id có hệ số tấn công phép thuật được áp dụng, không giống như các yêu tinh khác.",
+      "image": "https://i.namu.wiki/i/iiiCiQgUj63hyhs1kMdjw3Se3NGEyX8ETVQuDd7XMfB3BvAl7kTl8LLV05yms1KT6vHZMTy6kNyHjZKi5sVTpZ0AnFloQU3epr9LY-MtXFdkw-_CsAj0OytCteC-b1byCOFjb1OOq_UrtyxaJ0o4lA.webp",
+      "danhThuong": {
+        "hinhAnh": "https://i.namu.wiki/i/POyjoP8FPX6zjAq5K_hAXxj9k3gf5HslphD6eixjjQWPMPxP2QNIOv3mPohyjdaZN5PAP_OZAqAYd5mVzrjCIog3DgpANCVHR7rU2jeQLoXdGQuGCt7yFM3selJryxpEp7vv8YGFNmPAq1YpdAVANw.webp",
+        "thongTin1": "Cơ bản: Bắn 1 tia laser vào kẻ địch gần nhất gây sát thương phép",
+        "thongTin2": "Cường hóa: khi ED bị đánh 9 lần sẽ tự động bắn ra 1 tia laser gây sát thương phép lên khu vực phía trước và gây debuff giảm sát thương gây ra từ kẻ địch. Sau đó ED hồi HP dựa trên tỷ lệ HP của bản thân",
+        "thongTin3": "  Giảm sát thương của kẻ địch: 20% trong 6s",
+        "thongTin4": "Hồi HP: 20%",
+        "thongTin5": "",
+        "thongTin6": "",
+        "thongTin7": "",
+        "thongTin8": ""
+      },
+      "kiNang": {
+        "hinhAnh": "https://i.namu.wiki/i/rgjlxpC-Wi62GQjwWNBxiUjdk4tTyBg5fIQLyf6p1UjtDrcz13jMcvCC3sVk5nhf0Wvf-gQfcrSR4E9GhpkKGT39kTJITbpg6lkkMJ_KHc5L_9mYGo50CAP9lze_qu_h1NX08GCVhD8iIV5KSN3Brw.webp",
+        "thongTin1": "ED tự tọa ra 1 [lá chắn] bảo vệ cho bản thân và bảo vệ cho các đồng đội. Khi ED còn sống, nếu đồng đội bị dính sát thương trực tiếp gần chết, sát thương đó sẽ bị vô hiệu hóa và nhận được 1 [lá chắn] bảo vệ ( tối đa 2 đồng đội)",
+        "thongTin2": "thời gian lá chấn] bảo vệ ED: 12s",
+        "thongTin3": "thời gian hiệu ứng bảo vệ team: 12s",
+        "thongTin4": "tỷ lệ HP [lá chắn] ED: 48%",
+        "thongTin5": "Thời gian [lá chắn] bảo vệ cho 2 đồng đội: 6s ~ tỷ lệ HP [lá chắn]27% ",
+        "thongTin6": "Lượng SP : 540",
+        "thongTin7": "",
+        "thongTin8": ""
+      },
+      "tuyetKi": {
+        "hinhAnh": "https://i.namu.wiki/i/qf-SkoqAMh_U7P2hTBsTSryXRzFaWf6MzPNr_9lryoKuMEJOcKhBRYZDcWgYZ_08klHmBVkuyOd1s4VjRfSXjM5DYOZnBemuFM5tKCzEo0MGrI4XcPLs26ITCgjKOoVn_ZckoNXMOZ3AZjSjqRwqww.webp",
+        "thongTin1": "ED gây sát thương cho kẻ địch trong khu vực và giảm SP của chúng",
+        "thongTin2": "Giảm SP: 128",
+        "thongTin3": "Thời gian hồi skill: 42s",
+        "thongTin4": "",
+        "thongTin5": "",
+        "thongTin6": "",
+        "thongTin7": "",
+        "thongTin8": ""
+      }
+    },
+    "Aya": {
+      "he": "Nước",
+      "ten": "Aya",
+      "thongTinChiTiet": "Người lớn tuổi nhất trong bảy Chị Em Vĩnh Cửu, là nhân vật chủ chốt trong câu chuyện trong trò chơi.",
+      "image": "https://i.namu.wiki/i/IovAmUmbDPfznA1pyqmiSe0QZ8kZpZ4LpvbQ6axFQQ5vjX91nQccWKO0qP9af2kYyvFOIBH6F7Hf85l88YzTvFVy0v5G7lQkf1ncoUZufyUh3gysiyA8zhs_wtEPHucynGoB2MmGyEyaKboD0ej85Q.webp",
+      "danhThuong": {
+        "hinhAnh": "https://i.namu.wiki/i/POyjoP8FPX6zjAq5K_hAXxj9k3gf5HslphD6eixjjQWPMPxP2QNIOv3mPohyjdaZN5PAP_OZAqAYd5mVzrjCIog3DgpANCVHR7rU2jeQLoXdGQuGCt7yFM3selJryxpEp7vv8YGFNmPAq1YpdAVANw.webp",
+        "thongTin1": "Cơ bản: sử dụng đao tuyết chém kẻ địch gần và gây sát thương phép",
+        "thongTin2": "Cường hóa: tăng thêm sát thương khi sử dụng đao tím",
+        "thongTin3": "",
+        "thongTin4": "",
+        "thongTin5": "",
+        "thongTin6": "",
+        "thongTin7": "",
+        "thongTin8": ""
+      },
+      "kiNang": {
+        "hinhAnh": "https://i.namu.wiki/i/3yAsl--uSiUWOp7RXYrmyi2f2lsRupur4vK6gjduOMc8Wkq_mhZskJZJfz9qXWWhlEVuQp9dxouNgQIG3MiVA-fANfylkncDYX52tkFj66lZZervF1ZT2Dc5JDv0fVGsroz-49WoddcVi19lYInFkA.webp",
+        "thongTin1": "Aya truyền hơi lạnh vào đao tím và chém 2 phát gây sát thương phép ngay sau đó cho kẻ địch trong phạm vi và giảm tốc độ đánh của kẻ địch",
+        "thongTin2": "Giảm tốc độ đánh: 40% trong 8s",
+        "thongTin3": "Lượng SP: 480",
+        "thongTin4": "",
+        "thongTin5": "",
+        "thongTin6": "",
+        "thongTin7": "",
+        "thongTin8": ""
+      },
+      "tuyetKi": {
+        "hinhAnh": "https://i.namu.wiki/i/CUcWTAWuxZhyT-lm6rnUsP-5vYRTZfCcS4LXA9Xu-p71WAj9Y8ygoaScsUkuexIeshDI0Vit1gxQNnA_sfD60C8z3v0eGjizC3DjjIg-mIYA0gcnNj3mO1MvsNUU3ooWUzec4aEk1r7RK_EABcEmsg.webp",
+        "thongTin1": "Aya phóng ra khí luồng kí lạnh xung quanh gây sát thương phép lên kẻ địch trong khu vực và gây debuff [tê cóng] lên chúng",
+        "thongTin2": "[tê cóng]: nhận sát thương mỗi giây và tăng sát thương cho cấc tông đồ hệ nước",
+        "thongTin3": "Tăng sát thương: 33%",
+        "thongTin4": "[tê cóng]: trong 5s",
+        "thongTin5": "thời gian hồi skill: 20s",
+        "thongTin6": "",
+        "thongTin7": "",
+        "thongTin8": ""
+      }
+    },
+    "Barong": {
+      "he": "Nước",
+      "ten": "Barong",
+      "thongTinChiTiet": "Barong, hồn ma sẽ sớm thống trị Elias!",
+      "image": "https://i.namu.wiki/i/lylxwKvbd4Fcv-7_3MkAi0JaCRPSVtmkXyUJPYuO3MYBSN1cUUibE97GNkEJXdTzhL0EdDz4IfNL1COpU7HsX2h97HkkdKpCq9cxU1Gq4e4J5aNenIPFlFVWm2bwPCancJOzmg-ZMJmZPNHY12CGrQ.webp",
+      "danhThuong": {
+        "hinhAnh": "https://i.namu.wiki/i/POyjoP8FPX6zjAq5K_hAXxj9k3gf5HslphD6eixjjQWPMPxP2QNIOv3mPohyjdaZN5PAP_OZAqAYd5mVzrjCIog3DgpANCVHR7rU2jeQLoXdGQuGCt7yFM3selJryxpEp7vv8YGFNmPAq1YpdAVANw.webp",
+        "thongTin1": "Cơ bản: Dùng kim đâm kẻ địch và gây sát thương phép 2 lần",
+        "thongTin2": "Cường hóa: Ném 1 cây đinh gây sát thương phép cho kẻ địch 2 lần và cho bản thân buff [lừa dối] trong 8s. Khi kẻ địch bị nguyền rủa, đòn đánh [cường hóa] sẽ được kích hoạt thay vì đòn đánh [cơ bản]",
+        "thongTin3": "[lừa dối]: sẽ không trở thành mục tiêu bị tấn công ( không kích hoạt khi trên sân chỉ còn mỗi barong",
+        "thongTin4": "",
+        "thongTin5": "",
+        "thongTin6": "",
+        "thongTin7": "",
+        "thongTin8": ""
+      },
+      "kiNang": {
+        "hinhAnh": "https://i.namu.wiki/i/-9tpFL0kretFojIONQp6DI0MNwK2IvWva5o7h6Z1M9hHVoz_-5-Ey13IILbUHZfXfJYH-n77GgqwhDD1GjTo_nMMdmPNqf5qPYLKjRBiWtOnkxoLmD4n7mTvhLbKpt930BJopwBxggUW52p3t8adCw.webp",
+        "thongTin1": "Chạy đến kẻ địch xa nhất gây sát thương phép và gây [nguyền rủa] trong 15s. Sau khi sử dụng kĩ năng tăng tốc độ đánh cho bản thân và giảm magic DEF của kẻ địch. Nếu có 3 kẻ địch trở lên sẽ ưu tiên tấn công kẻ địch chưa bị đánh",
+        "thongTin2": "Tăng tốc độ đánh: 100% trong 5s",
+        "thongTin3": "Giảm magic DEF: 300 trong 6s",
+        "thongTin4": "Lượng SP : 240",
+        "thongTin5": "",
+        "thongTin6": "",
+        "thongTin7": "",
+        "thongTin8": ""
+      },
+      "tuyetKi": {
+        "hinhAnh": "https://i.namu.wiki/i/Fq4-AM4tYkTar2Mt1o6TgsqgcMVNUP2JWLilq00fZa8XIc1lsDbS6iyieJ-ebob-flrjnBkfT50n7GHsS_e05exmJL9f7b9xqtzmD1HRt2nVDKohSfdNIm0jPGIrGiIZWoIxRvD0GpsdRBlP1ptOqA.webp",
+        "thongTin1": "Gây sát thương phép và [nguyền rủa] kẻ địch xung quanh barong. Giảm sát thương nhận vào cho bản thân",
+        "thongTin2": "[nguyền rủa]: gây sát thương phép lên 1 kẻ địch ngẫu nhiên bằng tỷ lệ sát thương mà kẻ địch nhận được",
+        "thongTin3": "[nguyền rủa]: trong 10s",
+        "thongTin4": "Giảm sát thương: 25% trong 10s",
+        "thongTin5": "Thời gian hồi skill: 40s",
+        "thongTin6": "",
+        "thongTin7": "",
+        "thongTin8": ""
+      }
+    },
+    "SuKomi": {
+      "he": "Nước",
+      "ten": "SuKomi",
+      "thongTinChiTiet": "Khu nghỉ mát bãi biển Purri Beach Risotto gần hồ gần Làng Suin Komi đã thay đồ bơi để được tân trang lại. Cô cũng là tù nhân đầu tiên làm việc trong ngành công nghiệp bậc ba. Trong số những người thú, cô là thú có kiến ​​thức thứ hai sau Bana, vì vậy loại hành vi này không phải là không có lý do, nhưng do bản tính lười biếng của cô, việc anh ta tham gia vào các hoạt động kinh tế như thế này là điều bất thường.",
+      "image": "https://i.namu.wiki/i/oB76gslY0swJtJQ1QRaGeQlGipNRVEvWcBMxcWHroStat9AZTbHySvIZE40_WKQ_NLSxdRmF5HpEIBemVp0Vlp5LpqIsnkELPJMYjtJzaJZfiMmKg3XUodutPrJZkDN4ahiS6dPycYd7zM9xJtFuFg.webp",
+      "danhThuong": {
+        "hinhAnh": "https://i.namu.wiki/i/POyjoP8FPX6zjAq5K_hAXxj9k3gf5HslphD6eixjjQWPMPxP2QNIOv3mPohyjdaZN5PAP_OZAqAYd5mVzrjCIog3DgpANCVHR7rU2jeQLoXdGQuGCt7yFM3selJryxpEp7vv8YGFNmPAq1YpdAVANw.webp",
+        "thongTin1": "Cơ bản: SuKomi ném nước ép cho đồng đội hàng đầu có HP thấp nhất và 1 kẻ địch gần nhất",
+        "thongTin2": "Nước ép hồi HP cho đồng đội và gây sát thương phép cho kẻ địch ( lượng hp hồi dựa trên Magic ATK của komi",
+        "thongTin3": "nếu không có đồng đội hàng đầu thì ưu tiên đồng đội có HP cao nhất",
+        "thongTin4": "",
+        "thongTin5": "",
+        "thongTin6": "",
+        "thongTin7": "",
+        "thongTin8": ""
+      },
+      "kiNang": {
+        "hinhAnh": "https://i.namu.wiki/i/Djwb9eFhMP93h2el6sNjQVvjix0mL13zFKx4UT_nT5LJ-BQ76e1vr0EM6Rp2Y7ROQKrcUiB0OuCJdSg0_aY75pXpj_c__cLJzTxSpdk5LZ7ooherZMOKWArfISkDWAvwgVFbjPSsnkGUKQgRO4TUeQ.webp",
+        "thongTin1": "Komi té nước hồi HP cho tất cả đồng minh ở gần trong 1 khoảng thời gian nhất định ( lượng HP hồi dựa vào magic ATK của komi )",
+        "thongTin2": "Tăng sát thương kĩ năng cho tất cả đồng đội ở gần ( hiệu ứng tăng sát thương có thể cộng dồn 3 lần)",
+        "thongTin3": "Tăng sát thương kĩ năng: 7% trong 9s",
+        "thongTin4": "Lượng HP hồi: 36%",
+        "thongTin5": "Lượng SP: 420",
+        "thongTin6": "",
+        "thongTin7": "",
+        "thongTin8": ""
+      },
+      "tuyetKi": {
+        "hinhAnh": "https://i.namu.wiki/i/sEBsxEcUITsUfhJ53iKZGL8aVXI7pKdDjXxT6WsMZ2s5lks6n2xTtfl96mfw-J768ynuRTXNKkdLjbPs9QZE21H-RjMnkvmJigx3-VEwOopyQ8wjYLMl1RMtDWWRcYtnWQXsH629E4LwXC2d7pFuxA.webp",
+        "thongTin1": "Komi tát nước vào 1 vị trí ngẫu nhiên gây sát thương phép và hiệu ứng [Câm lặng] trong vùng nước rơi xuống",
+        "thongTin2": "[Câm lặng]: Khiến kẻ địch không thể sử dụng kĩ năng ",
+        "thongTin3": "[Câm lặng]: Trong 4s",
+        "thongTin4": "Thời gian hồi skill: 32s",
+        "thongTin5": "",
+        "thongTin6": "",
+        "thongTin7": "",
+        "thongTin8": ""
+      }
+    },
+    "Picora": {
+      "he": "Nước",
+      "ten": "Picora",
+      "thongTinChiTiet": "“Một ngày nào đó mọi người sẽ ghen tị với tôi!”",
+      "image": "https://i.namu.wiki/i/XRvCycQjkX0qWkS_IXkUDkYV4H45Tdu4rm_G5xNSoihFuGX0WoklieDIlke19U0sVjstFM4_Qx-r-hhBANR8S0zrC7mvQqrK_aUExN5ZMdxXkQujAgNaNiw1uXMvpNpP2aCQW-GyuJevTTZ9MgEnCw.webp",
+      "danhThuong": {
+        "hinhAnh": "https://i.namu.wiki/i/POyjoP8FPX6zjAq5K_hAXxj9k3gf5HslphD6eixjjQWPMPxP2QNIOv3mPohyjdaZN5PAP_OZAqAYd5mVzrjCIog3DgpANCVHR7rU2jeQLoXdGQuGCt7yFM3selJryxpEp7vv8YGFNmPAq1YpdAVANw.webp",
+        "thongTin1": "Cơ bản: Bắn phép thuật gây sát thương phép cho kẻ địch gần nhất",
+        "thongTin2": "Cường hóa: có tỷ lệ nhất định, bắn 2 phép liên tiếp gây sát thương phép cho kẻ địch ngẫu nhiên",
+        "thongTin3": "",
+        "thongTin4": "",
+        "thongTin5": "",
+        "thongTin6": "",
+        "thongTin7": "",
+        "thongTin8": ""
+      },
+      "kiNang": {
+        "hinhAnh": "https://i.namu.wiki/i/mxyrFBddRfwzvgpGf0TojFlaBPCmiMb3jvQrItGh-IQ0JBYmAB-CP_npy-1TjiJOQnZ1HIBXYdFgQCsAuKaAJkpIl1CwL3i_qJx4D2AHboHXlvaVQ8TOD1MBAvdkVCHnR8MxjVoES3L9lHfuwcQ09w.webp",
+        "thongTin1": "Picora gắn 3 sticker lên 3 đồng đội có lượng HP thấp nhất và hồi HP cho 3 đồng đội đó",
+        "thongTin2": "[sticker] tăng crit res, tăng khả năng hồi HP, giảm sát thương vật lý nhận vào ( lượng HP phục hồi dựa vào Magic ATK của Picora",
+        "thongTin3": "Tăng khả năng hồi phục: 50%",
+        "thongTin4": "Tăng Crit res: 35%",
+        "thongTin5": "Giảm sát thương nhận vào: 11%",
+        "thongTin6": "Lượng SP: 300",
+        "thongTin7": "",
+        "thongTin8": ""
+      },
+      "tuyetKi": {
+        "hinhAnh": "https://i.namu.wiki/i/VHZmiSisDcg2m-7cAB10KbyHIAHLDKbOngKYqqHB3gWp3GHYJW4BgSpH89JlSab0g6OKctkEG0Kk-ZcPh_3gn_-5HIIMvlIMHEGTYv6CvShPmDRR6RN4D2xzKGNkMAtauiqLkwo_RkyHFbGn9Q7Z1Q.webp",
+        "thongTin1": "Picora gắn 1 [sticker] lên 1 đồng đội có lượng HP cao nhất, đồng đội được gắn [sticker] sẽ tăng HP và có buff [khiêu khích]. Ngoài ra nếu đồng đội mang Artifact cũng sẽ tăng thêm HP ( tối đa 3 món). Khi [sticker] hết thời gian sẽ hồi HP tương ứng với lượng HP đã tăng thêm",
+        "thongTin2": "[khiêu khích]: trong 3s triển khai",
+        "thongTin3": "Tăng HP: 50% trong 8s",
+        "thongTin4": "Tăng HP cho mỗi Artifact: 10%",
+        "thongTin5": "Thời gian hồi skill: 32s",
+        "thongTin6": "",
+        "thongTin7": "",
+        "thongTin8": ""
+      }
+    },
+    "Velvet": {
+      "he": "Nước",
+      "ten": "Velvet",
+      "thongTinChiTiet": "Một phù thủy cấp cao của Velitien. Khá là ngu ngốc, cô chỉ khoe khoang sức mạnh thể chất của mình. Do bản chất xảo quyệt tự nhiên của mình, cô có thể nghĩ ra nhiều kế hoạch xấu xa, nhưng vì cô ngu ngốc, cô thiếu sự hoàn thiện và cuối cùng thất bại. Bởi vì đây là thực tế, cô luôn nhắm đến vị trí nữ hoàng phù thủy, nhưng bị Prickle phớt lờ và có tiếng xấu trong số các phù thủy khác. Tốt nhất, cô có vẻ được đối xử như một 'phù thủy thích được thả trôi, chiều chuộng rồi nôn mửa'. Tất nhiên, người ta nói rằng các phù thủy ban đầu có thói quen cố gắng giải quyết vấn đề bằng vũ lực, nhưng có vẻ như 'vũ lực' giữa các phù thủy thường bao gồm các kỹ năng phép thuật. Tuy nhiên, có vẻ như Velvet thực sự trở thành một phù thủy cấp cao chỉ thông qua vũ lực vật lý, tức là chỉ có sức mạnh. Đó là lý do tại sao cô có biệt danh là Phù thủy của Grunge Power. Mặc dù các học viên lớn tuổi chỉ cầm một chiếc rìu và xoay nó, họ gọi đó là phép thuật và hiệu ứng trong trò chơi thực sự khá mạnh. Nhân vật của cô ấy giống với Tig ở chỗ cô ấy mạnh mẽ, ngu ngốc và có tiếng xấu với người khác. Chỉ cần nhìn vào sự khác biệt, Teague là kiểu người nghĩ ra một kế hoạch kỳ lạ với một ý tưởng điên rồ, nhưng là kiểu người xem xét kế hoạch bằng sự ứng biến và hoàn thành nó. Ý tưởng của Velvet là hợp lý và thực sự hiệu quả vào lúc đầu, nhưng nó bị hạn chế bởi sự ứng biến, vì vậy nó thường mắc những sai lầm nghiêm trọng và không thể hoàn thành nó. Bạn có thể dễ dàng thấy điều này bằng cách so sánh Teague của Elias Odyssey và Velvet tuyệt vời của Rollett Connection.",
+      "image": "https://i.namu.wiki/i/jbFAt7lfkEQPIdrqxpECE2YzWpCcY194MjcHRSrFRB5rFc9brE7cOKO9Vr1X7ddpJmRDfVuRNSkNPaXSo0O75RM1q_F8_WffXh9f0cjDQzjCA4wzr1O19c09hGXCVrcxizzLnIBXukZUOXyO8FbS_Q.webp",
+      "danhThuong": {
+        "hinhAnh": "https://i.namu.wiki/i/R57veHBfI1cYjSU9mkVCUeY6sA9v53Rx_YZRvZ2G-1jMM9fFfIPyn0gTB1ZePM3qdqZqVo0MfJvWj2yjQ7EcUYzfaVGymDh2VBpB6HnJAgU_4O45EuQoTiqKGXsbdfV8jMr3UyqcZ_GLLG6HzwmAuw.webp",
+        "thongTin1": "Cơ Bản: Velvet dùng rìu bổ kẻ địch gần nhất gây sát thương vật lý",
+        "thongTin2": "",
+        "thongTin3": "",
+        "thongTin4": "",
+        "thongTin5": "",
+        "thongTin6": "",
+        "thongTin7": "",
+        "thongTin8": ""
+      },
+      "kiNang": {
+        "hinhAnh": "https://i.namu.wiki/i/RPygkePvm3PDRrKqsR9IW0Q_chfI9XppQc0NFr6991Nt5R3Rde0ZfQYDSlgZShQ35vtkIEN3io3WFk3XWlBwvljgp50r8v3wd6tUSMNPDWRj9FvHnhp9poHNkTADdx6Iji6OO3zY-2SWZUbGmY6WzA.webp",
+        "thongTin1": "Velvet giơ rìu lên [Khiêu kích] kẻ địch xung quanh, trong thời gian [Khiêu kích] sẽ được giảm sát thương vật lý nhận vào. Số lượng Artifact trên người cũng sẽ giảm sát thương vật lý nhận vào (tối đa 3 món) ",
+        "thongTin2": "☆ [Khiêu kích]: trong 4s",
+        "thongTin3": "☆ Sát thương vật lý giảm: 19%",
+        "thongTin4": "☆ Sát thương vật lý giảm cho mỗi món Artifact: 1% 1 món",
+        "thongTin5": "☆ Lượng SP: 400",
+        "thongTin6": "",
+        "thongTin7": "",
+        "thongTin8": ""
+      },
+      "tuyetKi": {
+        "hinhAnh": "https://i.namu.wiki/i/ISrJ4ZO7DT7ezKtr2JQIjyvcgf5KV_mBCL2fbhwzD3Zj7SzA3R-A9XyhqgmXRrNT8SmcvXgmrLxpkeor78OKXVj_wQ2DNbkNjqyERFO5d107Tw-ZCxWx9ISzOPnxMADNCvN5cU-xS92_KR8xDWrurA.webp",
+        "thongTin1": "Velvet vung rìu quay với tốc độ cực nhanh gây sát thương vật lý xung quanh khu vực",
+        "thongTin2": "☆ Thời gian hồi skill: 44s ",
+        "thongTin3": "",
+        "thongTin4": "",
+        "thongTin5": "",
+        "thongTin6": "",
+        "thongTin7": "",
+        "thongTin8": ""
+      }
+    },
+    "Elena": {
+      "he": "Nước",
+      "ten": "Elena",
+      "thongTinChiTiet": "Người sáng lập và thị trưởng của Monatium, một thành phố của yêu tinh. Đồng thời, đủ loại nhà nghiên cứu cao cấp. Cô cũng là một nhà độc tài ủng hộ dân chủ và độc chiếm vị trí. Về trang phục, tôi chỉ mặc áo choàng nghiên cứu và áo phông hộp. Cô là một người cuồng cà phê, yêu cà phê đến mức cô tính toán nồng độ caffeine bằng mắt. Elena, một chuyên gia về kỹ thuật ma thuật cơ khí, đang ở trong một khu rừng không có gì. Cô tức giận vì tín hiệu Wi-Fi của E-pad của cô không được thu, và trong cơn tức giận, cô đã xây dựng một lưới điện và mạng nội bộ bằng 3 triệu củ khoai tây trong hai ngày. Mặc dù cô là một yêu tinh vĩ đại có kiến ​​thức kỹ thuật vô song, nhưng những phát minh của cô luôn đi kèm với những sai lầm chết người do tính cách không mấy bận tâm đến những thứ như kiểm tra lỗi và vì hầu hết các phát minh của cô đều có chức năng tự hủy nên chúng luôn phát nổ nếu xảy ra lỗi. Hiện tại, cô đang bí mật lên kế hoạch gì đó với Amelia trong phòng thí nghiệm.",
+      "image": "https://i.namu.wiki/i/bd2rpQhyJ08dWRYSRhlSOJ32-4vTyFUOVvMddk9ziWVB-qLe27-9zUV_DAtxOZ2voQgFUdh6WtfcPYDGTrW4bwuUfLpsFBYB_Xv1Zby0OE1epYA7YOEzgnAvdBNYWCont0Ao6BlAF-umM3jDQJ0cZg.webp",
+      "danhThuong": {
+        "hinhAnh": "https://i.namu.wiki/i/R57veHBfI1cYjSU9mkVCUeY6sA9v53Rx_YZRvZ2G-1jMM9fFfIPyn0gTB1ZePM3qdqZqVo0MfJvWj2yjQ7EcUYzfaVGymDh2VBpB6HnJAgU_4O45EuQoTiqKGXsbdfV8jMr3UyqcZ_GLLG6HzwmAuw.webp",
+        "thongTin1": "Cơ Bản: Elena bắn một quả câu năng lượng gây sát thương vật lý lên kẻ địch gần nhất ",
+        "thongTin2": "Cường Hóa: Có tỉ lệ nhất định, Elena bắn một quả cầu năng lượng quá tải gây sát thương cho kẻ địch gần nhất và gây [Choáng]",
+        "thongTin3": "☆ [Choáng]: không thể cử động",
+        "thongTin4": "☆ [Choáng]: trong 2s",
+        "thongTin5": "",
+        "thongTin6": "",
+        "thongTin7": "",
+        "thongTin8": ""
+      },
+      "kiNang": {
+        "hinhAnh": "https://i.namu.wiki/i/nDYnjfsn2Wdxef9hrFDw_DVCVWGQX-GfDDwoANSvR5YVEY2yxc1KliQ3cdQgSb32qlO8EUIsO2ZOrO01I92TeeYmwYCHKaTQQZB3k1GYmbRhYddzeKCgqc6DefZeFliKSrgP7rYu4b2mAB6zob75Yw.webp",
+        "thongTin1": "Elena bắn sóng xung kích theo đường thẳng gây sát thương vật lý cho kẻ địch trong khu vực và gây [Giật điện]. Nếu có Amelia trong đội thời gian [Giật điện] tăng lên",
+        "thongTin2": "☆ [Giật điện]: giảm tốc độ tấn công và di chuyển ",
+        "thongTin3": "☆ [Giật điện]: trong 4s",
+        "thongTin4": "☆ [Giật điện] khi có Amelia: trong 8s",
+        "thongTin5": "☆ Lượng SP: 350",
+        "thongTin6": "",
+        "thongTin7": "",
+        "thongTin8": ""
+      },
+      "tuyetKi": {
+        "hinhAnh": "https://i.namu.wiki/i/EmaNqQSclB_2_icPMOho6hNDGIp7VIQBhkHG2v6szWvAC6TvvxCB6nVXL1fn7cD4pM4pHAX1ZzhA1X1axScAyKFROUTmyEcSp9JB90R0u3lci197BZVZ6-JIJ2-iV_NF66MCzXrGsoWmDUiEAx5kbg.webp",
+        "thongTin1": "Elena phóng D-CAT tới kẻ địch gần nhất , D-CAT sẽ giải phóng sóng xung khích ra khu vực xung quanh và gây sát thương vật lý ",
+        "thongTin2": "☆ Thời gian hồi skill: 28s",
+        "thongTin3": "",
+        "thongTin4": "",
+        "thongTin5": "",
+        "thongTin6": "",
+        "thongTin7": "",
+        "thongTin8": ""
+      }
+    },
+    "Jade": {
+      "he": "Nước",
+      "ten": "Jade",
+      "thongTinChiTiet": "Một trong những con rồng cư trú ở vùng đất lửa và đường thủy dưới quyền Elias. Đó là một con rồng bằng ngọc bích. Trong tộc Balaur, một chủng tộc chiến đấu luôn coi sức mạnh là giá trị cao nhất và coi chiến đấu là điều hiển nhiên, cô là một kẻ lập dị không thích chiến đấu với Cidian và có tinh thần chiến đấu độc đáo của chủng tộc Balaur để cạnh tranh với những đối thủ mạnh hơn mình và chiếm một thứ hạng cao hơn. Vì Jade không có tinh thần chiến đấu nào, cô cố tình tuyên bố mình là người có thứ hạng thấp nhất trong tộc rồng để tránh bị cuốn vào cuộc chiến xếp hạng. Mặt khác, thay vì tinh thần chiến đấu, cô lại khao khát kiến ​​thức, vì vậy anh đặt mục tiêu sống của mình là 'biến mọi kiến ​​thức trên thế giới thành của riêng mình' và dành toàn bộ thời gian để đọc nhiều cuốn sách khác nhau. Tuy nhiên, do đặc điểm của người Balaur, một chủng tộc chiến đấu, họ không thấy dễ để học. Bản thân khả năng đó không tốt lắm. Một nhân vật có khiếu hài hước tuyệt vời. Cô ngây thơ đến mức có thể được gọi là một kẻ ngốc, nhưng thật không may, anh là một Palanggui. Trong khi cô đang lấy thuốc chữa đau mắt cho anh, cô đã bị một kẻ lừa đảo tên là Sist lừa hoàn toàn, kẻ đã bán cho anh kẹo hương nho, nói rằng đó là thuốc chữa bách bệnh, và cuối cùng đã mua kẹo với giá rất cao.",
+      "image": "https://i.namu.wiki/i/5tL06-H4GfkJ2vPlS0L1Lv5vVsYOo777-RTI2bawEu7vkWPFRtQXqhbcYoF6e3-3D023yLe1H42sYOYotNFaWzcmfoe6_wUfB_291k6Kb1vAYkx6v1tuyvCylM7Asktzm4XuxNuwVsglsRkQzvf84A.webp",
+      "danhThuong": {
+        "hinhAnh": "https://i.namu.wiki/i/POyjoP8FPX6zjAq5K_hAXxj9k3gf5HslphD6eixjjQWPMPxP2QNIOv3mPohyjdaZN5PAP_OZAqAYd5mVzrjCIog3DgpANCVHR7rU2jeQLoXdGQuGCt7yFM3selJryxpEp7vv8YGFNmPAq1YpdAVANw.webp",
+        "thongTin1": "Cơ Bản: có tý lệ nhất định ăn 1 ngọc để cường hóa sức mạnh cho bản thân",
+        "thongTin2": " Nếu jade ăn 3 ngọc sẽ đc tăng Magic ATK trong 6s",
+        "thongTin3": "",
+        "thongTin4": "",
+        "thongTin5": "",
+        "thongTin6": "",
+        "thongTin7": "",
+        "thongTin8": ""
+      },
+      "kiNang": {
+        "hinhAnh": "https://i.namu.wiki/i/2Tr0NMggQXGdCiB6DoviKYvNIl0VRlPUMW6Qv-W46dKX832dCxwFpHBX10nDoEgbfQizBa_Kbdi9xImjosmmabyFA6kNIhCwbl3j6h4zDa4DMYip_d5IrxdFf-aurq4ruru8G91Mb_6NWV1FEO5OJg.webp",
+        "thongTin1": "Jade gây sát thương phép mạnh hơn dựa vào lượng Ngọc đã ăn, nếu sử dụng kỹ năng khi lượng Ngọc ở mức tối đa sẽ gia tăng sát thương. Reset lại số lượng Ngọc",
+        "thongTin2": "☆ Tích 1 ~ 2 Ngọc: tăng sát thương 120%",
+        "thongTin3": "☆ Tích 3 Ngọc: tăng sát thương 150%",
+        "thongTin4": "☆ Lượng SP: 450",
+        "thongTin5": "",
+        "thongTin6": "",
+        "thongTin7": "",
+        "thongTin8": ""
+      },
+      "tuyetKi": {
+        "hinhAnh": "https://i.namu.wiki/i/RZ6w7pGJDxB9UwYCjYP89gYPiihXBaxgoVmKmsDNj9E6I1DI-OFCRH2c8PNwufCoegbqLwfZKIrKu06Z5nf38kE5WZa6KBCnX8-8xArcpB9irdnsELp5yEeFMDECyygj1iEf9y9t9SCt2yq_qb8a9g.webp",
+        "thongTin1": "Jade triệu hồi Germanium phun lên từ mặt đất gây sát thương phép cho kẻ địch trong khu vực, lập tực được nhận 3 Ngọc và hồi SP cho bản thân",
+        "thongTin2": "☆ Hồi SP: 15%",
+        "thongTin3": "☆ Thời gian hồi skill: 24s",
+        "thongTin4": "",
+        "thongTin5": "",
+        "thongTin6": "",
+        "thongTin7": "",
+        "thongTin8": ""
+      }
+    },
+    "Fricle": {
+      "he": "Nước",
+      "ten": "Fricle",
+      "thongTinChiTiet": "Một nhân vật có tính cách giống phù thủy thường được miêu tả trong các tác phẩm sáng tạo, cô là trợ lý của Belita. Cô chuyên về phép thuật dây gai phá hoại và có đủ sức mạnh và địa vị để vươn lên vị trí thứ hai trong số các phù thủy có xu hướng mạnh mẽ giải quyết mọi thứ bằng vũ lực nhiều như loài rồng. Cô cũng ấp ủ tham vọng trở thành nữ hoàng, nhưng cho đến nay cô vẫn chưa cố gắng chiếm đoạt danh hiệu nữ hoàng của Belita, mà vẫn kiên trì ủng hộ và tôn trọng cô. Nói chính xác hơn, cô trung thành với Belita và không có ý định nổi loạn, nhưng cô tin rằng một ngày nào đó, khi Belita từ chức nữ hoàng, cô sẽ là người kế nhiệm cô. Cô rất khác so với cách Ner đối xử với Erpin của cô.",
+      "image": "https://i.namu.wiki/i/TgL6ZRTURUqNMWyuL3M2txTPqFnIGP6gY0dmMPym9QNvmGd4uQwOPHSyMBOLiiX04_hUZ5Kg0AzYlNkSeMg76XbjC-qXlSLMOpxXw6tFFAqt8we4cbCoFkITE8gEeboPlUAKPh4sJjmaNBUwMeLmvw.webp",
+      "danhThuong": {
+        "hinhAnh": "https://i.namu.wiki/i/POyjoP8FPX6zjAq5K_hAXxj9k3gf5HslphD6eixjjQWPMPxP2QNIOv3mPohyjdaZN5PAP_OZAqAYd5mVzrjCIog3DgpANCVHR7rU2jeQLoXdGQuGCt7yFM3selJryxpEp7vv8YGFNmPAq1YpdAVANw.webp",
+        "thongTin1": "Cơ Bản: Dùng dây leo gai gây sát thương phép cho kẻ địch gần nhất ",
+        "thongTin2": "Cường Hóa:  Có tỷ lệ nhất định, triệu hồi dây leo gai tấn công liên tục kẻ địch gần nhất, khi chuẩn bị biến mất dây leo gai quật mạnh xung quanh",
+        "thongTin3": "",
+        "thongTin4": "",
+        "thongTin5": "",
+        "thongTin6": "",
+        "thongTin7": "",
+        "thongTin8": ""
+      },
+      "kiNang": {
+        "hinhAnh": "https://i.namu.wiki/i/OhsxkKOkykciuRFqZoJoZ6mm5WY2XUqkm0YChXDLUmBqRlrUhI6uJckgQKDH85vrzOqIbnsV3l61Gxqm7osyACTt-d4mg_9KJSbo6SE7tYlHyHsWD_Ap4t9mV6-27ltbZyPWlXXOkIQWwehFzq9IlQ.webp",
+        "thongTin1": "Fricle gây sát thương phép cho kẻ địch gần nhất và phá hủy tất cả dây leo gai đã triệu hồi trước đó, các dây leo gai bị phá hủy bằng kỹ năng SP sẽ gây sát thương phép lớn hơn cho kẻ địch ",
+        "thongTin2": "☆ Sát thương khi phá hủy dây leo gai: 60%",
+        "thongTin3": "☆ Lượng SP: 400",
+        "thongTin4": "",
+        "thongTin5": "",
+        "thongTin6": "",
+        "thongTin7": "",
+        "thongTin8": ""
+      },
+      "tuyetKi": {
+        "hinhAnh": "https://i.namu.wiki/i/eOxsy34G2Am8mOtZyF5D-2l6k3f3uwufyROcSgal0plZTq6kdhvH1qCzgVx4RI8yYP1t_dmFVXYRPrHiYpd8M55iNT43GXf3ljh53ptnqZhmCZNa3DcKOznw7i2G54p-dCUm5rSRxdEnj-1crD0ulA.webp",
+        "thongTin1": "Triệu hồi rễ cây gai bao quanh kẻ địch gần nhất gây sát thương phép, gây [Tê liệt] và [Câm lặng]. Khi rễ cây gai gai biến mất nó sẽ triệu hồi một dây leo gai để thay thế",
+        "thongTin2": "☆ [Tê liệt]: Không thể di chuyển ",
+        "thongTin3": "☆ [Câm lặng]: Khiến kẻ địch không thể sử dụng kỹ năng ",
+        "thongTin4": "☆ [Tê liệt] vs [Câm lặng]: trong 7s",
+        "thongTin5": "☆ Thời gian hồi skill: 32s",
+        "thongTin6": "",
+        "thongTin7": "",
+        "thongTin8": ""
+      }
+    },
+    "Sylla": {
+      "he": "Nước",
+      "ten": "Sylla",
+      "thongTinChiTiet": "Một tinh linh gió cấp cao nằm trên đỉnh Spirit Mountain. Là một tinh linh gió, cô có tính cách thẳng thắn và có lẽ vì cô là một trong những đứa con lớn nhất của Elias, cô cũng có khuynh hướng khá cổ hủ. Không có thứ bậc rõ ràng giữa các tinh linh có thuộc tính hoặc vật chất khác, nhưng nếu ai đó chọn thủ lĩnh của các tinh linh, Sylla sẽ được nhắc đến. Trên thực tế, Naia hoặc Ifrit, một tinh linh cấp cao, được miêu tả đang theo dõi Sylla, và có một mối quan hệ giữa các tinh linh. Họ được các chủng tộc khác công nhận là những người lãnh đạo vì họ liên tục phụ trách các vấn đề nội bộ và làm trung gian cho các vấn đề liên quan đến các chủng tộc khác.",
+      "image": "https://i.namu.wiki/i/6ZYRucbza0gAG3iqJ081ncQk15TjnsTNKnznTlJGNctADopNBeyO-rfpbBhm0D_1lhvlT4vliSkiU8sPKs7AqgjK3wZadRBN9QcNkqNFLnwYun5410zbbqDEog6pC2G7bQGrrSBD5Dfao5jnnO5zRA.webp",
+      "danhThuong": {
+        "hinhAnh": "https://i.namu.wiki/i/R57veHBfI1cYjSU9mkVCUeY6sA9v53Rx_YZRvZ2G-1jMM9fFfIPyn0gTB1ZePM3qdqZqVo0MfJvWj2yjQ7EcUYzfaVGymDh2VBpB6HnJAgU_4O45EuQoTiqKGXsbdfV8jMr3UyqcZ_GLLG6HzwmAuw.webp",
+        "thongTin1": "Cơ Bản: bắn mũi tên gây sát thương vật lý vào kẻ địch xa nhất ",
+        "thongTin2": "",
+        "thongTin3": "",
+        "thongTin4": "",
+        "thongTin5": "",
+        "thongTin6": "",
+        "thongTin7": "",
+        "thongTin8": ""
+      },
+      "kiNang": {
+        "hinhAnh": "https://i.namu.wiki/i/fHPnfJgAtv-VOJkWSFx0nscPgl6gU1zJlLNLL_E5-sQKLtqM-JThmse-A_6-48vmWWbje22ONegZXb3ZLEAxvfnryBrUlW1ks0TxyEqUJ9sSHon7Eem8DDuZbqugeIoqJ5fGv2hFaUmbNXGx9RNPmQ.webp",
+        "thongTin1": "Sylla bắn mũi tên nhanh đến mức vô hình gây sát thương vật lý vào kẻ địch xa nhất ",
+        "thongTin2": "☆ Lượng SP: 290",
+        "thongTin3": "",
+        "thongTin4": "",
+        "thongTin5": "",
+        "thongTin6": "",
+        "thongTin7": "",
+        "thongTin8": ""
+      },
+      "tuyetKi": {
+        "hinhAnh": "https://i.namu.wiki/i/HNkLVm7cUih7ad0sbwELrkL-trlpdu3PGglXHtKUpgvQkkodjXWVYLI_KjmQQXDvYazxjUsGnEJ9lqkcJWovbS77O-WERAmGUHpyEB7kS-Kyc-o-PjlsfU9WuXX2dEj8ERW7d04Qs3p7xHBaaqVbNg.webp",
+        "thongTin1": "Sylla sử dụng cây cung của mình để tấn công gây sát thương vật lý vào kẻ địch xa nhất ",
+        "thongTin2": "☆ Thời gian hồi skill: 25s",
+        "thongTin3": "",
+        "thongTin4": "",
+        "thongTin5": "",
+        "thongTin6": "",
+        "thongTin7": "",
+        "thongTin8": ""
+      }
+    },
+    "Meluna": {
+      "he": "Nước",
+      "ten": "Meluna",
+      "thongTinChiTiet": "“Meluna~ Melon spirit, sing to me~”",
+      "image": "https://i.namu.wiki/i/XJVTpda9tJorujy5TA2OYHQW5JF9gimOgCypT2UPy80lY530epY3yhUo6hUJTvv_qLJcR84e1bLtKAzpw1WJDIVA-MhIque82IiMCSVjKwAh2pNIe76bqRVETm3wKo6OFS6KrpslgyOYpMOPRrXzuQ.webp",
+      "danhThuong": {
+        "hinhAnh": "https://i.namu.wiki/i/POyjoP8FPX6zjAq5K_hAXxj9k3gf5HslphD6eixjjQWPMPxP2QNIOv3mPohyjdaZN5PAP_OZAqAYd5mVzrjCIog3DgpANCVHR7rU2jeQLoXdGQuGCt7yFM3selJryxpEp7vv8YGFNmPAq1YpdAVANw.webp",
+        "thongTin1": "Cơ Bản: Ném quả dưa gây sát thương phép lên kẻ địch gần nhất ",
+        "thongTin2": "Cường Hóa:  Ném quả dưa thượng hạng gây sát thương phép lên kẻ địch gần nhất",
+        "thongTin3": "",
+        "thongTin4": "",
+        "thongTin5": "",
+        "thongTin6": "",
+        "thongTin7": "",
+        "thongTin8": ""
+      },
+      "kiNang": {
+        "hinhAnh": "https://i.namu.wiki/i/uZ0lo5Mi9FsHqVTUuheANNZYNoNpkGUmnVf1l5aZaUnu3rlN-ZtcbB-lqe7R-kyTxgD3tfHzhZLY1ol2F0Bv50SdQpopZ-AR4DhDFqS5sEV6hWPVxVkzVy8qydtpapz5LF7XBwen3dsEnA6gsGk9kw.webp",
+        "thongTin1": "Meluna gọi mưa dưa rơi xuống vị trí kẻ địch gần nhất gây sát thương phép và hồi HP cho tất cả đồng đội ",
+        "thongTin2": "☆ Hồi HP: 300%",
+        "thongTin3": "☆ Lượng SP: 400",
+        "thongTin4": "",
+        "thongTin5": "",
+        "thongTin6": "",
+        "thongTin7": "",
+        "thongTin8": ""
+      },
+      "tuyetKi": {
+        "hinhAnh": "https://i.namu.wiki/i/m2DtIYM67eyoxKn6-CUiMo3HBvb7nUcUjNEiYpgYcCGgfEOtGImS86j-jsoDqhg1cuh9ef-vH99Hphm4WMOqmLnZ4rw2xVOuJ4L4GkG5RC3oOnBf-RCuAelhonKxWtrcNRxuRLpYUjZEErhV2j2wmQ.webp",
+        "thongTin1": "Meluna triệu hồi một quả dưa khổng lồ lăn vào kẻ địch ngẫu nhiên gây sát thương phép trong khu vực ",
+        "thongTin2": "☆ Thời gian hồi skill: 20s",
+        "thongTin3": "",
+        "thongTin4": "",
+        "thongTin5": "",
+        "thongTin6": "",
+        "thongTin7": "",
+        "thongTin8": ""
+      }
+    },
+    "Amelia": {
+      "he": "Nước",
+      "ten": "Amelia",
+      "thongTinChiTiet": "“This is assistant Amelia. What did you summon me for?”",
+      "image": "https://i.namu.wiki/i/MJtgGVp0ugbsQB1HSTD-3Nw5rCxsGJvpMGdmOqxDwX8G43bkoItOaI8BdGAWzTIo7RvjK50n2vycxxGsJ_iz5HOIwKdqCliMehp2iknzciWdhMYH_ZYWwEAiVPAF324Ffz2bUO-JWPfj1mhWdTYijA.webp",
+      "danhThuong": {
+        "hinhAnh": "https://i.namu.wiki/i/R57veHBfI1cYjSU9mkVCUeY6sA9v53Rx_YZRvZ2G-1jMM9fFfIPyn0gTB1ZePM3qdqZqVo0MfJvWj2yjQ7EcUYzfaVGymDh2VBpB6HnJAgU_4O45EuQoTiqKGXsbdfV8jMr3UyqcZ_GLLG6HzwmAuw.webp",
+        "thongTin1": "Cơ Bản: Amelia bắn tia lazer theo đường thẳng gây sát thương vật lý cho kẻ địch trong khu vực ",
+        "thongTin2": "Cường hóa : Có tỷ lệ nhất định, bắn tia lazer cường hóa theo đường thẳng gây sát thương vật lý và gây [Giật điện] ",
+        "thongTin3": "☆ [Giật điện]: giảm tốc độ tấn công và di chuyển",
+        "thongTin4": "☆ [Giật điện]: trong 3s ",
+        "thongTin5": "",
+        "thongTin6": "",
+        "thongTin7": "",
+        "thongTin8": ""
+      },
+      "kiNang": {
+        "hinhAnh": "https://i.namu.wiki/i/qB2ZkoDui8kOYPYlJ6aIujroNkWZDYON7BTYwOxRrvAwPUngrYSEF9cICAUtsHgZXYyRzdEaFmilUlUafKTWRmfKoEVmTgBFkqhOmY6gblfrqBuEobTr8MV-ffM61Jw0bHFnUjIuJQ9qDv4RBft3nQ.webp",
+        "thongTin1": "Amelia  điều khiển vệ tinh phóng bom tín hiệu bắn tia lazer gây sát thương vật lý vào kẻ địch gần nhất và gây [Giật điện]",
+        "thongTin2": "☆ [Giật điện]: giảm tốc độ tấn công và di chuyển ",
+        "thongTin3": "☆ [Giật điện]: trong 6s ",
+        "thongTin4": "☆ Lượng SP: 400",
+        "thongTin5": "",
+        "thongTin6": "",
+        "thongTin7": "",
+        "thongTin8": ""
+      },
+      "tuyetKi": {
+        "hinhAnh": "https://i.namu.wiki/i/ub33wZUieh3HRoKt76NAZoKFiGEgK8Tw7Bd458u7buy7W56HO1tUeRQdz4-iS7fenzO-PeTFQxtYz-6-ZT-LXD-Z6v-ce9o2RF157KFC_KEMOYRRwSklOHegRcDfO81L8miwK6q4yapzYQQgmlbtRg.webp",
+        "thongTin1": "Amelia bắn ra loạt pháo lazer gây sát thương vật lý theo đường thẳng. Nếu kẻ địch đang bị dính [Giật điện] sẽ bị làm [Choáng] ",
+        "thongTin2": "☆ [Choáng]: trong 4s",
+        "thongTin3": "☆ Thời gian hồi skill: 29s",
+        "thongTin4": "",
+        "thongTin5": "",
+        "thongTin6": "",
+        "thongTin7": "",
+        "thongTin8": ""
+      }
+    },
+    "Lethe": {
+      "he": "Nước",
+      "ten": "Lethe",
+      "thongTinChiTiet": "It'll only take a little while. I'll make you happy.",
+      "image": "https://i.namu.wiki/i/eaEmN-QhBzsY5VgrnGoSEU2G5p45PA1WQYVH3AwPkBF8gSIegnXj2d2RMY65MNHuaLBnZ3vMWF75fcifbaQjH3tu-k39OtzP2IyozfZyKYsKaUttz2XWrF9sPyDdvzL5LqksH5hjpnOx4vJ7x0oY4g.webp",
+      "danhThuong": {
+        "hinhAnh": "https://i.namu.wiki/i/R57veHBfI1cYjSU9mkVCUeY6sA9v53Rx_YZRvZ2G-1jMM9fFfIPyn0gTB1ZePM3qdqZqVo0MfJvWj2yjQ7EcUYzfaVGymDh2VBpB6HnJAgU_4O45EuQoTiqKGXsbdfV8jMr3UyqcZ_GLLG6HzwmAuw.webp",
+        "thongTin1": "Cơ Bản: bắn lazer gây sát thương vật lý vào kẻ địch gần nhất gây sát thương gấp 4 lần ",
+        "thongTin2": "",
+        "thongTin3": "",
+        "thongTin4": "",
+        "thongTin5": "",
+        "thongTin6": "",
+        "thongTin7": "",
+        "thongTin8": ""
+      },
+      "kiNang": {
+        "hinhAnh": "https://i.namu.wiki/i/vnfWXnO1PuSvJO4MdfxfK0L37ZAG0BYsjLGO-dunWN_WDnONwhgUW8f1l1f-WYQlPggi6p8RHQ6WEGH-GvSyuUl0XQzdySTiC4oRVicSpqft5jNPkt0JE5nTGvX-ZIg_mz2DXdoyKVWk3wZms6ZAEA.webp",
+        "thongTin1": "Lethe muốn quên đi ký ức đau buồn tự chiếu lazer vào bản thân và hồi HP  (lượng HP hồi dựa vào tỉ lệ HP của Lethe)",
+        "thongTin2": "☆ Lượng HP hồi phục: 4,75% trong 6s",
+        "thongTin3": "☆ Lượng SP: 450",
+        "thongTin4": "",
+        "thongTin5": "",
+        "thongTin6": "",
+        "thongTin7": "",
+        "thongTin8": ""
+      },
+      "tuyetKi": {
+        "hinhAnh": "https://i.namu.wiki/i/PYp6KpgHqkhNltGjx-dW_k0NY1i1Ju5hVISUxoNkp6NQY_O3_BZS59DXiVE982IjUHR2WVle__5NiwJwy2JaUKgf9YewmOFTs5IygdgGMIXyk6GRrHiXbPwBKOxjh53-8aq3a3k6gIrU_Ogr5ilKYg.webp",
+        "thongTin1": "Bắn tia lazer vào kẻ địch gần nhất gây sát thương vật lý và gây [Mù]",
+        "thongTin2": "☆[Mù]: Khiến đòn đánh của kẻ địch có tỷ lệ trượt",
+        "thongTin3": "☆[Mù]: trong 6s",
+        "thongTin4": "☆ Thời gian hồi skill: 24s",
+        "thongTin5": "",
+        "thongTin6": "",
+        "thongTin7": "",
+        "thongTin8": ""
+      }
+    },
+    "Espi": {
+      "he": "Nước",
+      "ten": "Espi",
+      "thongTinChiTiet": "Một hồn ma trong mơ thích nhìn vào giấc mơ của người khác và đọc ác mộng. Người ta nói rằng bạn có thể xem lại giấc mơ đã có hoặc thay đổi kết thúc, nhưng bạn không thể mơ một giấc mơ hoàn toàn mới vì đó là đặc quyền của người mơ.",
+      "image": "https://i.namu.wiki/i/Z1ycIo3xu3rhWYWm4mzv_tSmTDgtbVy3hyDrpKTO1EjEZ-749GSQk3DZIpduaO2ycqBMHIAqMLkBptGOisJWiamboO33B3Hr0NvPqjj3d_AS5jdW5uvvGCZkNsnOF_m_eRHMnLh4_60xH-fLvuZptA.webp",
+      "danhThuong": {
+        "hinhAnh": "https://i.namu.wiki/i/POyjoP8FPX6zjAq5K_hAXxj9k3gf5HslphD6eixjjQWPMPxP2QNIOv3mPohyjdaZN5PAP_OZAqAYd5mVzrjCIog3DgpANCVHR7rU2jeQLoXdGQuGCt7yFM3selJryxpEp7vv8YGFNmPAq1YpdAVANw.webp",
+        "thongTin1": "Cơ Bản: Thổi tắt ngọn nến gây sát thương phép lên kẻ địch gần nhất ",
+        "thongTin2": "Cường Hóa: Có tỉ lệ nhất định, Espi thổi tắt nhiều ngọn nến gây sát thương phép cho kẻ địch gần nhất",
+        "thongTin3": "",
+        "thongTin4": "",
+        "thongTin5": "",
+        "thongTin6": "",
+        "thongTin7": "",
+        "thongTin8": ""
+      },
+      "kiNang": {
+        "hinhAnh": "https://i.namu.wiki/i/gq16aaW2c3uacnS0_AWnLYrveq-uCJuNSrwSLTOhRQSpZL6ZIZ5k1WD14jr1lbEMX9mayLEzT7EYaAA9h_yVykHDUP-RWHI9KOcpGbQpIIdpxwTDmAZifTIb67Z0WBnjPh4qRhgcU6M8fS9VHaoQJA.webp",
+        "thongTin1": "Thổi ngọn nến ma gây sát thương phép lên kẻ địch có ATK cao nhất và gây [Câm lặng]",
+        "thongTin2": "☆ [Câm lặng]: Khiến kẻ địch không thể sử dụng kỹ năng ",
+        "thongTin3": "☆ [Câm lặng]: trong 10s",
+        "thongTin4": "☆ Lượng SP: 400",
+        "thongTin5": "",
+        "thongTin6": "",
+        "thongTin7": "",
+        "thongTin8": ""
+      },
+      "tuyetKi": {
+        "hinhAnh": "https://i.namu.wiki/i/uEhRd0CQFnZBI589m6GlCZMXrUYWhWT7pTFve2h1EcQELeC6m6wsXgFqKgIlnfcjK-NqadPGWcDgcPuybljkZSSiEzGpJvfGyyrdWpNE5mE2iGbYxXs3jqjhaXleGI8HK6d7-bGDsfBMIaAGv23FSg.webp",
+        "thongTin1": "Espi dịch chuyển đến kẻ địch có ATK cao nhất gây sát thương phép và giảm SP tương ứng với tỉ lệ SP của Espi",
+        "thongTin2": "☆ Tỉ lệ giảm SP: 35,2%",
+        "thongTin3": "☆ Thời gian hồi skill: 33s",
+        "thongTin4": "",
+        "thongTin5": "",
+        "thongTin6": "",
+        "thongTin7": "",
+        "thongTin8": ""
+      }
+    }
+  }
+}
